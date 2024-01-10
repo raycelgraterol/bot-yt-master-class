@@ -1,0 +1,695 @@
+ID: 1667926292385x495291642819117060 : Articulo 1
+ID: 1667928613107x935262477745651700 : Better Earth Sales Updates Week of 11/1/22
+ID: 1668036414688x615430028596609000 : Articulo de prueba
+ID: 1668036548578x323675167844991000 : Contenido titulo subcategoria 
+ID: 1668043191531x302161694853169150 : Preguntas frecuentes sobre la hoja de trucos de finanzas
+ID: 1668043223315x220888623141617660 : ¿Dónde puedo obtener mejores regalos/merchandising de Earth?
+ID: 1668044015048x556472999958806500 : Preguntas frecuentes sobre la hoja de trucos de finanzas
+ID: 1668044819583x120199456473219070 : Formulario de comentarios
+ID: 1668165240260x390798749296230400 : ¿Cómo funcionan los proyectos de montaje en tierra?
+ID: 1668165295470x909425636330963000 : ¿Cómo acepto un pago inicial para un préstamo en Pangea?
+ID: 1668165324378x939609409121419300 : ¿Cuál es el proceso si un propietario se muda con energía solar?
+ID: 1668165368943x338996878878965760 : Plazos esperados para cada etapa
+ID: 1668165415392x514778500643946500 : ¿Qué equipo se instala como parte de una instalación solar estándar?
+ID: 1668165448724x471439852195282940 : ¿Cuáles son los requisitos para adoptar la energía solar?
+ID: 1668165480185x293442101244067840 : ¿Qué sucede si un cliente cancela?
+ID: 1668165518904x368512542835212300 : Preguntas frecuentes sobre la medición de energía neta (NEM)
+ID: 1668165550296x270661550749253630 : ¿Cuáles son los documentos requeridos del proyecto?
+ID: 1668165575632x280733722327646200 : ¿Cuándo se necesita un kit Tilt-Up?
+ID: 1668165597049x231388834041430000 : ¿Puede un cliente instalar energía solar en varias direcciones?
+ID: 1668165634033x225060338906431500 : ¿Cuándo debe estar el cliente en casa para la instalación?
+ID: 1668165663586x754078987387142100 : ¿Puede un cliente instalar energía solar en un edificio histórico?
+ID: 1668165744441x103361129124200450 : ¿En qué tipos de estructuras se instalará Better Earth?
+ID: 1668165768838x453564278427877400 : ¿Cuál es el tamaño mínimo del sistema que puede tener un cliente?
+ID: 1668165794989x899138650568130600 : ¿Cómo funcionan los reembolsos a clientes?
+ID: 1668165820599x582585609936437200 : ¿Tendría el préstamo solar algún efecto en la posibilidad de que los posibles propietarios compren una casa nueva?
+ID: 1668165860022x449759144354250750 : ¿Cómo funcionan los bonos de recomendación de un cliente?
+ID: 1668165886502x393578887150043140 : ¿Se pueden crear proyectos para viviendas sin construir?
+ID: 1668165925838x377201637933711360 : Cómo revisar y aprobar un alcance de trabajo (SOW) en Pangea
+ID: 1668165958190x135220453414797310 : ¿Si un cliente tiene un saldo pendiente con la empresa de servicios públicos, ¿aún puede optar por la energía solar?
+ID: 1668166011862x569028423072612350 : ¿Cómo presento un trato limpio?
+ID: 1668166047119x904366725033361400 : ¿Puede el servicio de atención al cliente (CX) llamar a mi cliente?
+ID: 1668166076629x988081740101451800 : ¿Cómo funciona el monitoreo del sistema con SolarEdge?
+ID: 1668166108285x895790560987840500 : ¿Cómo funciona la agregación de medidores de energía neta?
+ID: 1668166137731x762358820672372700 : ¿Podemos agregar paneles a un sistema existente?
+ID: 1668166164283x927009140876247000 : ¿Cómo limpia los paneles y con qué frecuencia necesita limpiarlos?
+ID: 1668166190555x260772160098795500 : ¿Cómo obtener ayuda si alguno de los equipos no funciona?
+ID: 1668166215558x558540189890510850 : ¿Puede un cliente firmar una copia impresa de los acuerdos si no tiene configurado un correo electrónico?
+ID: 1668166238500x187509389145931780 : ¿Hay un costo por una visita de servicio a la casa de mi cliente?
+ID: 1668166262011x800924639343935500 : ¿Puedo utilizar varias opciones de financiación para una sola oferta?
+ID: 1668166291535x639498929386291200 : ¿Cuánto agrega un sistema solar al seguro de propietario de vivienda del cliente?
+ID: 1668166324651x210367337900277760 : ¿Cómo funciona el crédito fiscal solar (ITC)? Preguntas más frecuentes
+ID: 1668166354418x783835392446562300 : ¿Puedo vender una oferta comercial? Preguntas más frecuentes
+ID: 1668166378874x291272609319354400 : ¿Por qué somos agnósticos del panel?
+ID: 1668166405666x352462818145992700 : ¿Por qué Better Earth es exclusivo de los inversores SolarEdge?
+ID: 1668166438467x243015897938657280 : ¿Cómo obtengo la información más reciente sobre mi proyecto?
+ID: 1668166467561x299409577941663740 : ¿Cómo puedo cotizar un proyecto?
+ID: 1668166490538x454268475783774200 : ¿Dónde cargo los documentos del proyecto?
+ID: 1668166515329x699981758006558700 : ¿Qué sucede durante la etapa de permisos?
+ID: 1668166536991x823775213369425900 : ¿Cómo funciona el proceso de asignación y activación?
+ID: 1668166566440x630650638388953100 : ¿Cuál es el proceso de interconexión y cómo se recibe el permiso para operar (PTO)?
+ID: 1668166590600x104459167996575740 : ¿Qué asistencia proporciona el equipo de experiencia de ventas?
+ID: 1668166629704x933656507087847400 : ¿Cómo obtengo acceso a portales de finanzas y otro software?
+ID: 1668166650367x647745791205048300 : ¿Cuáles son los pasos principales del proceso de instalación?
+ID: 1668166684074x308373520365387800 : ¿Cómo proporciona soporte técnico y aborda los problemas técnicos el departamento de TI y sistemas?
+ID: 1668166710615x240394350155530240 : ¿Cómo saber para qué fecha está programada mi instalación?
+ID: 1668166738674x393605234399641600 : ¿Cuál es la mejor manera de enviar una solicitud de servicio para abordar la inquietud de un cliente?
+ID: 1668166759130x178908570304118800 : ¿Qué papel juega el equipo de Aurora en el proceso de diseño?
+ID: 1668166795545x984519895306469400 : ¿Cómo puedo crear un prospecto?
+ID: 1668168426171x816589466722369500 : ¿Cómo creo una propuesta?
+ID: 1668168479773x432397422045429800 : ¿Cómo programo una inspección del sitio? Preguntas más frecuentes
+ID: 1668168508331x199033819066794000 : ¿Qué es una encuesta del sitio?
+ID: 1668168530827x247742001947344900 : ¿Qué es la ingeniería y el diseño?
+ID: 1668168556116x542717906589843460 : ¿Qué es un alcance de trabajo (SOW)?
+ID: 1668168582721x912136771475079200 : ¿Qué son las aprobaciones de terceros?
+ID: 1668168604051x680405140431962100 : ¿Qué es permitir?
+ID: 1668168625578x406525270417473540 : ¿Qué es la interconexión?
+ID: 1668168654347x994395567919464400 : ¿Cómo funciona una actualización del panel de servicio principal (MPU)? Preguntas más frecuentes
+ID: 1668168692019x597085511447478300 : ¿Cómo funciona un techo nuevo? Preguntas más frecuentes
+ID: 1668168723459x537557548593840100 : ¿Cómo funciona la programación de instalación?
+ID: 1668168756242x774405884795682800 : ¿Qué sucede el día de la instalación?
+ID: 1668168788323x967432673324957700 : ¿Cómo funciona la inspección? Preguntas más frecuentes
+ID: 1668168813992x597505673299230700 : ¿Qué es el permiso para operar (PTO)?
+ID: 1668168837163x720793720375476200 : ¿Qué es la activación del sistema?
+ID: 1668168870889x442419745516159000 : ¿Cómo puede mi cliente ponerse en contacto con el servicio de atención al cliente?
+ID: 1668168909243x599912399212904400 : ¿Qué es una orden de cambio y cuándo se requieren? Preguntas más frecuentes
+ID: 1668168959773x530745709903216640 : Reservar una llamada SOW Express
+ID: 1668168980639x695755602255151100 : ¿Cuál es el costo de quitar o reinstalar un sistema solar existente?
+ID: 1668169073763x821779129752879100 : ¿Qué sucede si mi cliente no tiene un medidor inteligente?
+ID: 1668169150961x236833527247142900 : ¿Cómo funciona la aprobación de la Asociación de propietarios (HOA)?
+ID: 1668169179901x143363791859744770 : ¿Qué es la aprobación financiera o notificación para proceder (NTP)?
+ID: 1668169234278x202404747124932600 : ¿Cómo cambian los estados del proyecto?
+ID: 1668394536403x477243183827255300 : Acuerdo de Financiamiento
+ID: 1668394565379x605302322836275200 : ¿Cómo recopilo el uso del cliente de la utilidad?
+ID: 1668394638524x945455177579102200 : Acuerdo de instalación (IA)
+ID: 1668394679940x628682565363957800 : Preguntas frecuentes sobre facturas de servicios públicos
+ID: 1668394724507x394234674711363600 : Guía de Protección al Consumidor (GPC)
+ID: 1668394807077x790783776323272700 : Formulario de reconocimiento de HOA
+ID: 1668394836963x811267730040422400 : Exenciones de techo
+ID: 1668394978306x260165669209767940 : ¿La bancarrota afecta la calificación para un financiamiento solar?
+ID: 1668395048316x311100928981991400 : Goodleap
+ID: 1668395096274x487032606796021760 : Sunlight
+ID: 1668395140966x322329830726565900 : Dividend
+ID: 1668395204444x915908314062127100 : Sunrun
+ID: 1668395294703x664080263986020400 : HomeRun (PACE)
+ID: 1668395326302x516838683846901800 : Enium
+ID: 1668395360694x147642639573319680 : Sunnova
+ID: 1668395414767x196164694230958080 : ¿Con qué socios financieros se asocia Better Earth?
+ID: 1668395449781x849961718905045000 : Sungage
+ID: 1668395663506x910099450584891400 : ¿Qué es una oferta en efectivo?
+ID: 1668395709901x824845704123646000 : ¿Qué es un préstamo solar?
+ID: 1668395783351x812468154648232000 : ¿Qué es un Acuerdo de Compra de Energía (PPA)?
+ID: 1668395820260x917055592503181300 : ¿Qué es la Energía Limpia Evaluada por la Propiedad (PACE)?
+ID: 1668395893650x293062759623950340 : Luz y agua de Azusa (ALW)
+ID: 1668395935162x622423095842177000 : Servicios públicos de Anaheim (APU)
+ID: 1668396217476x338769309354950660 : Lakeland Electric
+ID: 1668396321576x498927747980853250 : Autoridad de Servicios Públicos de Kissimmee (KUA)
+ID: 1668396353352x394329547366727700 : Servicios públicos regionales de Gainesville (GRU)
+ID: 1668396456024x665162987129274400 : ¿Con qué empresas de servicios públicos trabaja Better Earth?
+ID: 1668396519392x478845895493025800 : ¿Qué son los cargos de energía verde?
+ID: 1668396656802x717571000884002800 : Cooperativa Eléctrica Trico
+ID: 1668396688655x408065526624944100 : Energía Municipal Alameda (AMP)
+ID: 1668396751157x705352446924292100 : Prohibición de la Utilidad Eléctrica (BEU)
+ID: 1668396920190x502925595301642200 : Liberty Utilidades (LU)
+ID: 1668396948738x928744428465291300 : Distrito de Irrigación Imperial (IID)
+ID: 1668396979851x346838545140023300 : Servicio eléctrico de la ciudad de Colton (CEU)
+ID: 1668397004765x712888216053088300 : Departamento de Agua y Energía de Los Ángeles (LADWP)
+ID: 1668397046131x234015985947901950 : Servicio eléctrico de Lodi (LEU)
+ID: 1668397073874x340661712954851300 : Distrito de Riego de Modesto (MID)
+ID: 1668397110451x867936576903839700 : Servicios públicos de Moreno Valley (MVU)
+ID: 1668397157273x604023808388759600 : Pacific Gas & Electric (PG&E)
+ID: 1668397181192x833506317541834800 : Agua y energía de Pasadena (PWP)
+ID: 1668397215548x948305299796131800 : Servicios públicos de Riverside (RPU)
+ID: 1668397265142x701453170084937700 : Distrito Municipal de Servicios Públicos de Sacramento (SMUD)
+ID: 1668397311612x207916513411203070 : Gas y electricidad de San Diego (SDGE)
+ID: 1668397334041x468256638092443650 : Silicon Valley Power (VP sénior)
+ID: 1668397357949x346547308086165500 : Distrito de riego de Turlock (TID)
+ID: 1668397384640x179368986348093440 : Servicio Público de Arizona (APS)
+ID: 1668397430600x868621950170431500 : Distrito Eléctrico #2 (ED2)
+ID: 1668397455711x373895959624810500 : Edison del sur de California (SCE)
+ID: 1668397480198x663177108793065500 : Distrito Eléctrico #3 (ED3)
+ID: 1668397507288x302481316351836160 : Proyecto Salt River Energía y Agua (SRP)
+ID: 1668397529254x823297932402360300 : Proyecto de Riego San Carlos (SCIP)
+ID: 1668397550374x697422028102434800 : Cooperativa Eléctrica de Sulphur Springs Valley (SSVEC)
+ID: 1668397575688x588535117201539100 : Energía eléctrica de Tucson (TEP)
+ID: 1668397601631x941059066673496000 : Energía y luz de Florida (FPL)
+ID: 1668397675749x756117067170578400 : Duke Energy
+ID: 1668397703341x478209694600790000 : Compañía Eléctrica de Tampa (TECO)
+ID: 1668397726063x190602310748733440 : Cooperativa Eléctrica del Río Withlacoochee (WREC)
+ID: 1668397754084x239478330057293820 : Distrito de riego de Lathrop (LID)
+ID: 1668397777421x545091138568060900 : Cooperativa eléctrica del condado de Lee
+ID: 1668397809766x470600062140416000 : Servicio eléctrico de Roseville
+ID: 1668397906789x818229370350731300 : ¿Qué tipo de inversores utiliza Better Earth?
+ID: 1668397945825x505914049502904300 : Preguntas frecuentes sobre los sistemas de almacenamiento con respaldo de batería
+ID: 1668397970677x334455543868948500 : Sistema de gestión de demanda de energía (solo AZ)
+ID: 1668397997008x656855040175112200 : Preguntas frecuentes sobre los cargadores de vehículos eléctricos (EV)
+ID: 1668398034613x160446752334807040 : ¿Qué es un monitor de consumo de energía CURB?
+ID: 1668398068011x856563757421690900 : ¿Qué paneles usamos? Preguntas más frecuentes
+ID: 1668398121267x709109014132424700 : ¿Qué equipamiento de estanterías instala Better Earth? Preguntas más frecuentes
+ID: 1668398278078x841758323876560900 : Beneficios de una mejor tierra
+ID: 1668398342929x356866040230051840 : Garantía de instalación de 60 días
+ID: 1668398408587x503549278289920000 : Garantía de rendimiento de 25 años
+ID: 1668398440081x428234152067465200 : Garantía de mano de obra de 25 años
+ID: 1668398470641x534855222694772740 : Garantía de penetración en el techo de 10 años
+ID: 1668398511792x894289501248028700 : ¿Por qué solo muestra el monitoreo del sistema de 5 años en nuestro contrato?
+ID: 1668398533472x247572168762720260 : Informe Wood Mackenzie
+ID: 1668398566744x142266339296018430 : ¿Qué es la Certificación Pearl?
+ID: 1668398986029x690567868505915400 : Better Earth Liability Insurance y Compensación de Trabajadores
+ID: 1668399033724x933543081945333800 : Licencias de contratistas de Better Earth
+ID: 1668399079613x712765881849479200 : ¿Cómo obtengo mi licencia de vendedor de mejoras para el hogar (HIS)?
+ID: 1668399213225x244332501644345340 : Glosario de términos solares
+ID: 1668399331161x305208186492682240 : ¿En qué tipos de techo se instala Better Earth?
+ID: 1668399467832x610351410026905600 : Opciones de sumador
+ID: 1668399570913x551312167076364300 : Política de Código de Conducta de Ventas
+ID: 1668400958922x169787167767527420 : Si la casa de un propietario es propiedad de una LLC, ¿aún puede calificar para el financiamiento?
+ID: 1669117377790x963606824496660500 : ¿Cómo descargo un Acuerdo de instalación firmado (IA) en Pangea?
+ID: 1669117545381x158322048107544580 : ¿Cómo envío una propuesta desde Aurora?
+ID: 1669117579878x734654886521864200 : ¿Cómo puedo acceder a la presentación estática en Pangea?
+ID: 1669858858196x115360199645331460 : Marcador
+ID: 1670599914836x907128145196351500 : Slack
+ID: 1670599970644x538615021871038460 : Herramientas de Google (Gmail, Drive, Calendar y más)
+ID: 1670600122171x992805249114701800 : Sales Rabbit
+ID: 1670912797791x364350472808824800 : Actualizaciones de ventas Semana del 25/7/22
+ID: 1670912849567x401736128188907500 : Actualizaciones de ventas Semana del 2/8/22
+ID: 1670912956655x713565755749171200 : Actualizaciones de ventas Semana del 9/8/22
+ID: 1670913107999x253481568189022200 : Actualizaciones de ventas Semana del 16/8/22
+ID: 1670913155823x997638431698583600 : Actualizaciones de ventas Semana del 23/8/22
+ID: 1670913184919x649119392385204200 : Actualizaciones de ventas Semana del 30/8/22
+ID: 1670913219448x955978833241571300 : Actualizaciones de ventas Semana del 6/9/22
+ID: 1670913246574x550412445824843800 : Actualizaciones de ventas Semana del 13/09/22
+ID: 1670913277558x781481424057794600 : Actualizaciones de ventas Semana del 20/9/22
+ID: 1670913321430x718942497652080600 : Actualizaciones de ventas Semana del 27/9/22
+ID: 1670913364574x619208348746907600 : Actualizaciones de ventas de Better Earth Semana del 4/10/22
+ID: 1670913399982x561556682272931840 : Actualizaciones de ventas de Better Earth Semana del 10/11/22
+ID: 1670913468407x814339951749234700 : Actualizaciones de ventas de Better Earth Semana del 18/10/22
+ID: 1670913499006x479909230067318800 : Actualizaciones de ventas de Better Earth Semana del 25/10/22
+ID: 1670913539238x989847169745551400 : Actualizaciones de ventas de Better Earth Semana del 1/11/22
+ID: 1670913568654x432614857417424900 : Actualizaciones de ventas de Better Earth Semana del 11/8/22
+ID: 1670913598406x365926765726269440 : Actualizaciones de ventas de Better Earth Semana del 15/11/22
+ID: 1670913626446x446192940803424260 : Actualizaciones de ventas de Better Earth Semana del 22/11/22
+ID: 1670913659965x234275991337041920 : Actualizaciones de ventas de Better Earth Semana del 28/11/22
+ID: 1670913690598x294933338909048800 : Actualizaciones de ventas de Better Earth Semana del 5/12/22
+ID: 1670913810814x625016329899081700 : ¿Qué es Zoom?
+ID: 1670913879309x825387290156859400 : Cómo usar el chat en vivo de Aurora
+ID: 1670913912352x905424451447554000 : ¿Cómo envío una propuesta desde Aurora?
+ID: 1670913942438x718611286216147000 : ¿Cómo solicito un diseño experto en Aurora?
+ID: 1670913998406x147437362944409600 : Preguntas frecuentes sobre el modo de venta de Pangea y Aurora
+ID: 1670914027213x506571706239025150 : ¿Cómo uso el modo de diseño avanzado en Aurora?
+ID: 1670914060941x235752234334289920 : Cómo ajustar los contratiempos en el modo de diseño de Aurora
+ID: 1670914085573x576033290566762500 : ¿Qué papel juega el equipo de Aurora en el proceso de diseño?
+ID: 1670915649332x787417338170572800 : Cómo usar el modo de diseño avanzado en Aurora
+ID: 1670915723770x173281465574359040 : Cómo comparar la factura de servicios públicos antes y después de la energía solar en el modo de diseño de Aurora
+ID: 1671045804191x934645160953249800 : Actualizaciones de ventas de Better Earth Semana del 13/12/22
+ID: 1671046372680x304746666133291000 : ¿Cómo se puede transferir un cliente potencial en Pangea?
+ID: 1671047175752x298843096240881660 : Aviso de inicio (solo FL)
+ID: 1671048622171x747380730801422300 : ¿Cómo descargo todos mis clientes potenciales actuales de Enerflo?
+ID: 1671051185462x755895483486175200 : ¿Cómo se puede transferir un cliente potencial en Pangea?
+ID: 1671051260980x756682910537875500 : ¿Cómo pongo un proyecto en espera o lo cancelo en Pangea?
+ID: 1671051291100x117683829499756540 : Cómo usar el modo de diseño experto
+ID: 1671051475838x576096985123127300 : ¿Cómo puedo acceder a la presentación estática en Pangea?
+ID: 1671051536638x758768887171121200 : ¿Cómo descargo un Acuerdo de instalación firmado (IA) en Pangea?
+ID: 1671051604926x601402549560148000 : Cómo enviar manualmente una oferta en Pangea
+ID: 1671051635150x610480366856175600 : Tutorial completo de Pangea
+ID: 1671051658949x126561016921718780 : Introducción de clientes potenciales, creación y acceso a propuestas en Pangea
+ID: 1671051685398x746547766116745200 : Subir facturas de servicios públicos y otros documentos en Pangea
+ID: 1671051710158x648236016232824800 : Corrección de la información del cliente para la firma del acuerdo de instalación en Pangea
+ID: 1671051738893x243244405156216830 : ¿Cómo firmo documentos con un cliente en Pangea?
+ID: 1671051900453x803426147306831900 : Marcador
+ID: 1671051965637x664454595920527400 : Slack
+ID: 1671052058980x108881630565761020 : Herramientas de Google (Gmail, Drive, Calendar y más)
+ID: 1671052144126x548808799131533300 : ¿Cómo descargo todos mis clientes potenciales actuales de Enerflo?
+ID: 1671052190438x546676877183680500 : Propuestas GoSolo
+ID: 1671052251213x112933810989957120 : SalesRabbit
+ID: 1671052299382x490699737393528800 : ¿Qué es Zoom?
+ID: 1671052360966x240410392124194800 : Cómo usar el chat en vivo de Aurora
+ID: 1671052401239x124765718623289340 : ¿Cómo envío una propuesta desde Aurora?
+ID: 1671052431525x975212842589880300 : ¿Cómo solicito un diseño experto en Aurora?
+ID: 1671052459078x870806511383740400 : Preguntas frecuentes sobre el modo de venta de Pangea y Aurora
+ID: 1671052484454x910066015729877000 : ¿Cómo uso el modo de diseño avanzado en Aurora?
+ID: 1671052511086x248837161561358340 : Cómo ajustar los contratiempos en el modo de diseño de Aurora
+ID: 1671052535855x546037897130147840 : ¿Qué papel juega el equipo de Aurora en el proceso de diseño?
+ID: 1671052629536x501019294093279200 : Cómo usar el modo de diseño avanzado en Aurora
+ID: 1671052655230x402025749509046300 : Cómo comparar la factura de servicios públicos antes y después de la energía solar en el modo de diseño de Aurora
+ID: 1672156747950x223557128069316600 : Horario de vacaciones del 23 de diciembre al 2 de enero
+ID: 1672156789109x187231027414433800 : Actualizaciones de ventas de Better Earth Semana del 20/12/22
+ID: 1672156838629x691310187871993900 : Preguntas frecuentes sobre Net Energy Metering 3.0 (NEM 3.0) en California
+ID: 1673563758006x921537254254968800 : ¿Qué equipo se instala como parte de una instalación solar estándar?
+ID: 1677541815145x346875181639401500 : Actualizaciones de ventas de Better Earth Semana del 10/01/2023
+ID: 1677541877634x221090677050572800 : Actualizaciones de ventas de Better Earth Semana del 17/01/2023
+ID: 1677542001369x216027316795473900 : Actualizaciones de ventas de Better Earth Semana del 24/1/2023
+ID: 1677542056433x228356888595005440 : Actualizaciones de ventas de Better Earth Semana del 31/01/2023
+ID: 1677542087993x725225642950918100 : Actualizaciones de ventas de Better Earth semana del 2/7/2023
+ID: 1677542129137x461824224218841100 : Actualizaciones de ventas de Better Earth Semana del 14/02/2023
+ID: 1677542160200x543381501745823740 : Actualizaciones de ventas Semana del 21/02/23
+ID: 1677673563382x340858552429314050 : Política de Código de Conducta de Ventas
+ID: 1677673606574x244204946139381760 : Plazos esperados para cada etapa
+ID: 1677673740462x970903313404395500 : Opciones de sumador
+ID: 1677673790429x650507840242319400 : Información del contacto
+ID: 1677673829237x620169594804633600 : Ubicaciones de oficinas y almacenes de Better Earth
+ID: 1677673862701x545236518755631100 : Mapa del territorio
+ID: 1677673911821x532937118210850800 : ¿Cómo funcionan los pagos en efectivo? Preguntas más frecuentes
+ID: 1677673988980x453106476727664640 : ¿Cómo solicito un presupuesto de techo para un cliente?
+ID: 1677674059069x749112531482574800 : ¿Cómo me comunico con el equipo de experiencia de ventas?
+ID: 1677674109141x371508699125514240 : ¿Dónde puedo obtener mejores regalos/merchandising de Earth?
+ID: 1677674147556x165522229185216500 : Actualice su depósito directo y la información de W9 con Better Earth
+ID: 1677674184077x583758321691394000 : Directrices de marca y marketing de Better Earth
+ID: 1677674210621x638415956841332700 : Preguntas frecuentes sobre la hoja de trucos de finanzas
+ID: 1677674980262x212068566300098560 : Cómo iniciar sesión en Pangea y sincronizar Aurora
+ID: 1677675045965x262603652257546240 : Pangea
+ID: 1677675208398x428093692877733900 : Cómo usar el chat de soporte de ventas en Pangea
+ID: 1677675244717x768054696050950100 : ¿Cómo uso Pago Rápido?
+ID: 1677676160028x856385911627710500 : Actualizaciones de ventas Semana del 28/02/23
+ID: 1677676416708x292716956774039550 : ¿Cómo procesa el equipo de revisión de proyectos un alcance de trabajo (SOW)?
+ID: 1677676451412x188215999345459200 : ¿Qué sucede si mi cliente no tiene un medidor inteligente?
+ID: 1677676535165x735707088896131100 : ¿Qué es una encuesta del sitio?
+ID: 1677676569340x156038389624995840 : ¿Qué es la ingeniería y el diseño?
+ID: 1677676601276x645717519466758100 : ¿Qué es un alcance de trabajo (SOW)?
+ID: 1677676631796x785225552323412000 : ¿Cómo funciona la inspección? Preguntas más frecuentes
+ID: 1677676660980x971546901050818600 : ¿Qué es la activación del sistema?
+ID: 1677676691292x418132272502538240 : ¿Cómo funciona un techo nuevo? Preguntas más frecuentes
+ID: 1677676741115x160592370635636740 : Proceso de asignación y activación
+ID: 1677676835885x124885761812594690 : ¿Cómo funciona la aprobación de la Asociación de propietarios (HOA)?
+ID: 1677676870972x461585078314598400 : ¿Qué es la Aprobación Financiera Inicial (IFA) o Aviso para Proceder (NTP)?
+ID: 1677676906172x503768282235142140 : ¿Qué son las aprobaciones de terceros?
+ID: 1677676941357x518982530382954500 : ¿Qué es permitir?
+ID: 1677676978445x632561277830168600 : ¿Cómo funciona una actualización del panel de servicio principal (MPU)? Preguntas más frecuentes
+ID: 1677677008548x989912297880420400 : ¿Puede un cliente instalar energía solar en un edificio histórico?
+ID: 1677677113276x116067663934914560 : ¿Cómo cambian los estados del proyecto?
+ID: 1677677148325x685340429304987600 : Si la casa de un propietario es propiedad de una LLC, ¿aún puede calificar para el financiamiento?
+ID: 1677677174804x283270232743084030 : ¿Cómo puedo cotizar un proyecto?
+ID: 1677677207876x380809201794678800 : ¿Qué es Bolt? (PREGUNTAS MÁS FRECUENTES)
+ID: 1677677234627x411634306986541060 : ¿Cómo presento un trato limpio?
+ID: 1677677276499x535378753787789300 : ¿Cuáles son los documentos requeridos del proyecto?
+ID: 1677677311396x487571773524541440 : ¿Podemos agregar paneles a un sistema existente?
+ID: 1677677339474x663329665484062700 : ¿Puedo vender una oferta comercial? Preguntas más frecuentes
+ID: 1677677388860x149104229959598080 : ¿Cómo creo una propuesta?
+ID: 1677677443958x468689503586615300 : ¿Cómo puedo crear un prospecto?
+ID: 1677677483517x565364076863553540 : ¿Dónde cargo los documentos del proyecto?
+ID: 1677677515228x842985890964045800 : ¿Cuáles son los requisitos para adoptar la energía solar?
+ID: 1677677550733x242928804917149700 : Cómo revisar y aprobar un alcance de trabajo (SOW) en Pangea
+ID: 1677677583003x733215371435704300 : ¿Puedo utilizar varias opciones de financiación para una sola oferta?
+ID: 1677677638402x212223992132272130 : ¿Cómo acepto un pago inicial para un préstamo en Pangea?
+ID: 1677677662627x490307124090109950 : ¿Qué es una orden de cambio y cuándo se requieren? Preguntas más frecuentes
+ID: 1677677695011x979155806290444300 : ¿Cómo funcionan los bonos de recomendación de un cliente?
+ID: 1677677726596x340717896930951200 : ¿Puede un cliente firmar una copia impresa de los acuerdos si no tiene configurado un correo electrónico?
+ID: 1677677755619x245155911820640260 : ¿Cómo programo una inspección del sitio? Preguntas más frecuentes
+ID: 1677677795786x502124302853210100 : ¿Qué sucede si un cliente cancela?
+ID: 1677677921292x143228964210475000 : ¿Cómo funciona la programación de instalación?
+ID: 1677678033828x190569496900534270 : ¿Qué sucede el día de la instalación?
+ID: 1677678078206x758209512313454600 : ¿En qué tipos de estructuras se instalará Better Earth?
+ID: 1677678121499x417646860234915840 : ¿Cómo funcionan las actualizaciones de módulos el día de la instalación?
+ID: 1677678150809x974768897523712000 : ¿Cuál es el tamaño mínimo del sistema que puede tener un cliente?
+ID: 1677678179733x124802434677866500 : ¿Cómo saber para qué fecha está programada mi instalación?
+ID: 1677678298670x750196365831176200 : ¿En qué tipos de techo se instala Better Earth?
+ID: 1677678367883x619701735266451500 : Preguntas frecuentes sobre solicitudes de servicio
+ID: 1677678396683x875956621069516800 : ¿Cómo funcionan los reembolsos a clientes?
+ID: 1677678431852x966063873034289200 : ¿Cómo puede mi cliente ponerse en contacto con el servicio de atención al cliente?
+ID: 1677678468316x896053869451673600 : CX Llamar a mi formulario de solicitud de cliente
+ID: 1677678501868x214072487167655940 : ¿Cómo funciona el monitoreo del sistema con SolarEdge?
+ID: 1677678691107x440026751266193400 : ¿Por qué Better Earth es exclusivo de los inversores SolarEdge?
+ID: 1677678726106x201589130385162240 : ¿Cómo limpia los paneles y con qué frecuencia necesita limpiarlos?
+ID: 1677678761459x846141399089283100 : ¿Cuándo se necesita un kit Tilt-Up?
+ID: 1677678807009x850501113187663900 : ¿Cómo funcionan los proyectos de montaje en tierra?
+ID: 1677678837362x983185611775803400 : ¿Qué es un panel de nivel 1?
+ID: 1677678873962x280079423597969400 : ¿Qué equipo se instala como parte de una instalación solar estándar?
+ID: 1677678946667x105173137745772540 : ¿Qué asistencia proporciona el equipo de experiencia de ventas?
+ID: 1677678975082x882517886613323800 : Reservar una llamada SOW Express
+ID: 1677679003437x455671043142713340 : ¿Por qué somos agnósticos del panel?
+ID: 1677679054595x501579412178731000 : ¿Cómo obtengo la información más reciente sobre mi proyecto?
+ID: 1677679096011x141684083580731400 : ¿Dónde debo ir para obtener una actualización del proyecto?
+ID: 1677679125004x111427516233154560 : ¿Qué hago si tengo un error o una falla técnica?
+ID: 1677679227163x475295778337980400 : ¿Cómo funciona la agregación de medidores de energía neta?
+ID: 1677679260875x337196748572983300 : Preguntas frecuentes sobre la medición de energía neta (NEM)
+ID: 1677679426771x156385266546769920 : ¿Cuál es el proceso de interconexión y cómo se recibe el permiso para operar (PTO)?
+ID: 1677679455459x571708649020063740 : ¿Qué es la interconexión?
+ID: 1677679537363x184586565158174720 : ¿Qué es el permiso para operar (PTO)?
+ID: 1677680021067x338799750070140900 : Si un cliente tiene un saldo pendiente con la empresa de servicios públicos, ¿aún puede optar por la energía solar?
+ID: 1677680087835x998172234063282200 : ¿Cuál es el proceso si un propietario se muda con energía solar?
+ID: 1677680122651x466502948890869800 : ¿Puede un cliente instalar energía solar en varias direcciones?
+ID: 1677680169092x596578739981910000 : ¿Cómo funciona el crédito fiscal solar (ITC)? Preguntas más frecuentes
+ID: 1677680225884x838236640027607000 : ¿Se pueden crear proyectos para viviendas sin construir?
+ID: 1677680251986x925659936154976300 : ¿Tendría el préstamo solar algún efecto en la posibilidad de que los posibles propietarios compren una casa nueva?
+ID: 1677680274037x993526435907108900 : ¿Cuánto agrega un sistema solar al seguro de propietario de vivienda del cliente?
+ID: 1681961774287x580443487569707000 : Seminario web Dominar NEM 3.0 (13/04/23)
+ID: 1681961847533x353146470564364300 : Preguntas frecuentes sobre Net Energy Metering 3.0 (NEM 3.0) en California
+ID: 1681961876847x654750467166568400 : ¡Actualización más reciente de los sistemas complementarios!
+ID: 1681961904829x883545585192009700 : ¿Cómo ver si el proyecto ha sido protegido por derechos adquiridos en NEM 2.0?
+ID: 1681961927903x505121138586419200 : Seminario web sobre cómo dominar NEM 3.0 (6/4/23)
+ID: 1681961957452x950045070000128000 : Seminario web Dominar NEM 3.0 (30/03/23)
+ID: 1681961983983x370181619102253060 : Seminario web Dominar NEM 3.0 (23/03/23)
+ID: 1681962014349x274299214947155970 : Seminario web Dominar NEM 3.0 (16/03/23)
+ID: 1681962036207x171068167393378300 : Seminario web Dominar NEM 3.0 (9/3/23)
+ID: 1681962058093x420727661475397600 : Seminario web sobre el dominio de NEM 3.0 (3/2/23)
+ID: 1681962255324x751734148518641700 : Actualizaciones de ventas Semana del 18/04/23
+ID: 1681962349056x768648141110247400 : Actualizaciones de ventas Semana del 4/11/23
+ID: 1681962376768x911455547686912000 : Actualizaciones de ventas Semana del 4/4/23
+ID: 1681962443846x682427780375511000 : Actualizaciones de ventas Semana del 28/03/23
+ID: 1681962487653x975248885921874000 : Actualizaciones de ventas Semana del 21/03/23
+ID: 1681962591584x148263606424698880 : Actualizaciones de ventas Semana del 14/03/23
+ID: 1681962633168x372571931967488000 : Actualizaciones de ventas Semana del 3/7/23
+ID: 1681962663071x494220114976047100 : Actualizaciones de ventas Semana del 28/02/23
+ID: 1681962698888x114911610032881660 : Actualizaciones de ventas Semana del 21/02/23
+ID: 1681962776016x635380796699443200 : Actualizaciones de ventas de Better Earth Semana del 14/02/2023
+ID: 1681962804608x999981003483381800 : Actualizaciones de ventas de Better Earth semana del 2/7/2023
+ID: 1681962866808x883779006118494200 : Actualizaciones de ventas de Better Earth Semana del 31/01/2023
+ID: 1681962899543x455728984634949600 : Actualizaciones de ventas de Better Earth Semana del 24/1/2023
+ID: 1681962930576x410401310747918340 : Actualizaciones de ventas de Better Earth Semana del 17/01/2023
+ID: 1681962963976x993193468394733600 : Actualizaciones de ventas Semana del 25/7/22
+ID: 1681962998064x134182273004863490 : Actualizaciones de ventas de Better Earth Semana del 10/01/2023
+ID: 1681963031080x351479563401297900 : Actualizaciones de ventas de Better Earth Semana del 20/12/22
+ID: 1681963077592x351477407861178400 : Actualizaciones de ventas de Better Earth Semana del 13/12/22
+ID: 1681963105685x879197015091183600 : Actualizaciones de ventas de Better Earth Semana del 5/12/22
+ID: 1681963133832x171575555275620350 : Actualizaciones de ventas de Better Earth Semana del 28/11/22
+ID: 1681963162253x337634623565856800 : Actualizaciones de ventas de Better Earth Semana del 22/11/22
+ID: 1681963188935x823512867681861600 : Actualizaciones de ventas de Better Earth Semana del 15/11/22
+ID: 1681963221766x601766071081893900 : Actualizaciones de ventas de Better Earth Semana del 11/8/22
+ID: 1681963257265x339363184207462400 : Actualizaciones de ventas de Better Earth Semana del 1/11/22
+ID: 1681963287697x735488744581759000 : Actualizaciones de ventas de Better Earth Semana del 15/11/22
+ID: 1681963316958x866521700371529700 : Actualizaciones de ventas de Better Earth Semana del 18/10/22
+ID: 1681963351175x969273446198411300 : Actualizaciones de ventas de Better Earth Semana del 10/11/22
+ID: 1681963379486x824881559090233300 : Actualizaciones de ventas Semana del 27/9/22
+ID: 1681963424961x120661425660624900 : Actualizaciones de ventas Semana del 20/9/22
+ID: 1681963456216x646105752072880100 : Actualizaciones de ventas Semana del 13/09/22
+ID: 1681963481240x212036548024336400 : Actualizaciones de ventas Semana del 6/9/22
+ID: 1681963516672x652616182877388800 : Actualizaciones de ventas Semana del 30/8/22
+ID: 1681963543425x508604622033911800 : Actualizaciones de ventas Semana del 23/8/22
+ID: 1681963569433x933325795671146500 : Actualizaciones de ventas Semana del 16/8/22
+ID: 1681963593840x307255122438127600 : Actualizaciones de ventas Semana del 8/9/22
+ID: 1681963628905x569862778066305000 : Actualizaciones de ventas Semana del 8/2/22
+ID: 1681963659112x702338556674179100 : Actualizaciones de ventas de Better Earth Semana del 4/10/22
+ID: 1681963837190x456216692212367360 : ¿Cómo puedo ver la información y las actualizaciones más recientes sobre mi proyecto?
+ID: 1681963871864x629728467456360400 : Reservar una llamada SOW Express
+ID: 1681963902608x164808720830955520 : CX Llamar a mi formulario de solicitud de cliente
+ID: 1681963935280x274067548489646100 : ¿Qué hago si tengo un error o una falla técnica?
+ID: 1681964039758x827015039893635100 : Opciones de sumador
+ID: 1681964064032x463516326496567300 : Preguntas frecuentes sobre la hoja de trucos de finanzas
+ID: 1681964137377x361509896349286400 : Mapa del territorio
+ID: 1681964167305x317359569977737200 : Plazos esperados para cada etapa
+ID: 1681964195817x896864427602870300 : Ubicaciones de oficinas y almacenes de Better Earth
+ID: 1681964227673x863457432533205000 : Directorio de contactos de Better Earth
+ID: 1681964263686x950130316625576000 : ¿En qué tipos de techo se instala Better Earth?
+ID: 1681964298032x698445328187129900 : ¿En qué tipos de estructuras se instalará Better Earth?
+ID: 1681964337159x243986168489443330 : ¿Cómo cambian los estados del proyecto?
+ID: 1681964371033x194233629956374530 : ¿Cómo presento un trato limpio?
+ID: 1681964660033x150545691242659840 : Actualice su depósito directo y la información de W9 con Better Earth
+ID: 1681964704961x427925895685079000 : Política de Código de Conducta de Ventas
+ID: 1681964849745x500996231947354100 : ¿Cómo puede mi cliente ponerse en contacto con el servicio de atención al cliente?
+ID: 1681964884135x527010588613410800 : Preguntas frecuentes sobre solicitudes de servicio
+ID: 1681964909913x962805008147939300 : ¿Cómo funcionan los reembolsos a clientes?
+ID: 1681964995058x116738357788672000 : ¿Cuáles son los requisitos para adoptar la energía solar?
+ID: 1681965025233x388679211445911550 : ¿Cómo puedo crear un prospecto?
+ID: 1681965066569x949545860281139200 : ¿Cómo recopilo el uso del cliente de la utilidad?
+ID: 1681965101810x267189179747926000 : ¿Cómo creo una propuesta?
+ID: 1681965152625x933355247865167900 : ¿Cómo puedo cotizar un proyecto?
+ID: 1681965176042x543277939979976700 : ¿Dónde cargo los documentos del proyecto?
+ID: 1681965205111x439913671857274900 : ¿Cómo programo una inspección del sitio? Preguntas más frecuentes
+ID: 1681965235921x780080420441030700 : ¿Cómo acepto un pago inicial para un préstamo en Pangea?
+ID: 1681965276247x309365451120181250 : Cómo revisar y aprobar un alcance de trabajo (SOW) en Pangea
+ID: 1681965302943x732937988466016300 : ¿Qué es una orden de cambio y cuándo se requieren? Preguntas más frecuentes
+ID: 1681965331242x383984822757621760 : ¿Cómo funcionan los bonos de recomendación de un cliente?
+ID: 1681965360522x211016637840883700 : ¿Qué sucede si un cliente cancela?
+ID: 1681965546521x500738783110496260 : ¿Qué es una encuesta del sitio?
+ID: 1681965571753x959394558225940500 : ¿Qué es la ingeniería y el diseño?
+ID: 1681965593087x619597356939870200 : ¿Qué es un alcance de trabajo (SOW)?
+ID: 1681965613985x640560286507466800 : ¿Qué es permitir?
+ID: 1681965640528x466214546512281600 : ¿Qué es la interconexión?
+ID: 1681965667410x660808881629036500 : ¿Cómo funciona la programación de instalación?
+ID: 1681965700338x448749775678079000 : Preguntas frecuentes sobre la instalación
+ID: 1681965726226x668606719468240900 : ¿Cómo funciona la inspección? Preguntas más frecuentes
+ID: 1681965777530x881433044199669800 : ¿Qué es el permiso para operar (PTO)?
+ID: 1681965801010x381097632023183360 : ¿Qué es la activación del sistema?
+ID: 1681965861946x525313665847001100 : ¿Qué son las aprobaciones de terceros?
+ID: 1681965899186x422020697366724600 : ¿Cómo funciona una actualización del panel de servicio principal (MPU)? Preguntas más frecuentes
+ID: 1681965941354x839250593925562400 : ¿Cómo funciona la aprobación de la Asociación de propietarios (HOA)?
+ID: 1681965969192x796389990658211800 : ¿Qué es la Aprobación Financiera Inicial (IFA) o Aviso para Proceder (NTP)?
+ID: 1681966022706x706140560492593200 : ¿Qué es una incrustación compuesta (Comp)?
+ID: 1681966054163x923394590892621800 : ¿Cómo funciona un techo nuevo? Preguntas más frecuentes
+ID: 1681966166720x532800935024132100 : ¿Cómo incorporo a un nuevo techador para asociarme con Better Earth?
+ID: 1681966208394x210487099035746300 : ¿Cómo solicito un presupuesto de techo para un cliente?
+ID: 1681966278642x534115760528687100 : ¿Podemos agregar paneles a un sistema existente?
+ID: 1681966311913x283255716836016130 : ¿Se puede instalar energía solar en un garaje independiente?
+ID: 1681966342794x344117132459507700 : ¿Cuál es el tamaño mínimo del sistema que puede tener un cliente?
+ID: 1681966387664x394229600087441400 : ¿Cuál es el proceso si un propietario se muda con energía solar?
+ID: 1681966431776x779930705584455700 : ¿Puedo utilizar varias opciones de financiación para una sola oferta?
+ID: 1681966467299x574064179114147800 : ¿Puede un cliente instalar energía solar en varias direcciones?
+ID: 1681966524715x658721896632156200 : ¿Puede un cliente instalar energía solar en un edificio histórico?
+ID: 1681966554194x389478903666966500 : ¿Qué sucede si mi cliente no tiene un medidor inteligente?
+ID: 1681966583851x981944214565683200 : ¿Cómo funcionan las actualizaciones de módulos el día de la instalación?
+ID: 1681966626051x930390037603287000 : ¿Puedo vender una oferta comercial? Preguntas más frecuentes
+ID: 1681966650339x679179836694986800 : ¿Puede un cliente firmar una copia impresa de los acuerdos si no tiene configurado un correo electrónico?
+ID: 1681966935699x765546225700962300 : ¿Cuáles son los documentos requeridos del proyecto?
+ID: 1681967005572x619572485703073800 : ¿Qué es la Guía de Protección al Consumidor de California (CPG)?
+ID: 1681967038275x682017910937354200 : Acuerdo de instalación (IA)
+ID: 1681967062564x152535360535265280 : ¿Qué es el Acuerdo de Financiamiento?
+ID: 1681967094692x235459280141025280 : Preguntas frecuentes sobre facturas de servicios públicos
+ID: 1681967326484x830633245185409000 : Exenciones de techo
+ID: 1681967357444x359990147841523700 : Formulario de reconocimiento de HOA
+ID: 1681967384388x562483993759973400 : Aviso de inicio (solo FL)
+ID: 1681967458412x563105747260669950 : ¿Qué sucede con el Sistema si los Condóminos quieren Vender la Propiedad?
+ID: 1681967503347x392150840000905200 : ¿Qué es un Acuerdo de Compra de Energía (PPA)?
+ID: 1681967533668x203977965054197760 : ¿Qué es un préstamo solar?
+ID: 1681967559884x457409119088803800 : ¿Qué es la Energía Limpia Evaluada por la Propiedad (PACE)?
+ID: 1681967586228x760824551770685400 : ¿Qué es una oferta en efectivo?
+ID: 1681967631299x895112545187397600 : ¿Cómo funcionan los pagos en efectivo? Preguntas más frecuentes
+ID: 1681967690884x315338413480607740 : ¿Con qué socios financieros se asocia Better Earth?
+ID: 1681967749012x709666241946845200 : Goodleap
+ID: 1681967781548x212640314818297860 : Dividend
+ID: 1681967810132x689609503852200000 : Sunrun
+ID: 1681967840156x597677578662707200 : Sunnova
+ID: 1681967873067x342439441340039200 : HomeRun (PACE)
+ID: 1681967895580x909658722173714400 : Sungage
+ID: 1681967917508x405859688283635700 : Enium
+ID: 1681967944348x506184608068403200 : Sunlight Financial
+ID: 1681968044844x163495887804825600 : ¿Cómo funcionan los límites de precio por vatio (PPW) con los proveedores financieros?
+ID: 1681968069892x661162532871864300 : ¿La bancarrota afecta la calificación para un financiamiento solar?
+ID: 1681968101740x137658506820714500 : ¿Cómo funciona el crédito fiscal solar (ITC)? Preguntas más frecuentes
+ID: 1681968137091x880643591805075500 : ¿Tendría el préstamo solar algún efecto en la posibilidad de que los posibles propietarios compren una casa nueva?
+ID: 1681968216228x507672676477435900 : Si la casa de un propietario es propiedad de una LLC, ¿aún puede calificar para el financiamiento?
+ID: 1681968628773x175260065455669250 : ¿Con qué empresas de servicios públicos trabaja Better Earth?
+ID: 1681968675053x703774850921529300 : Preguntas frecuentes sobre la medición de energía neta (NEM)
+ID: 1681968707565x175143618344386560 : ¿Cómo funciona la agregación de medidores de energía neta?
+ID: 1681968742494x166994534828343300 : Si un cliente tiene un saldo pendiente con la empresa de servicios públicos, ¿aún puede optar por la energía solar?
+ID: 1681968778701x389399234115010560 : ¿Qué son los cargos de energía verde?
+ID: 1681968834397x249933679964717060 : Servicios públicos de Anaheim (APU)
+ID: 1681968873565x628383369486401500 : Luz y agua de Azusa (ALW)
+ID: 1681968907397x791146335054069800 : Energía Municipal Alameda (AMP)
+ID: 1681968942197x581829979538456600 : Prohibición de la Utilidad Eléctrica (BEU)
+ID: 1681968972525x948996729053642800 : Liberty Utilidades (LU)
+ID: 1681969008421x494845389164773400 : Distrito de Irrigación Imperial (IID)
+ID: 1681969036205x123211367723565060 : Servicio eléctrico de la ciudad de Colton (CEU)
+ID: 1681969061597x853408879183134700 : Departamento de Agua y Energía de Los Ángeles (LADWP)
+ID: 1681969086364x691029923324231700 : Servicio eléctrico de Lodi (LEU)
+ID: 1681969123637x136010699184013310 : Distrito de Riego de Modesto (MID)
+ID: 1681969145285x930226131274563600 : Servicios públicos de Moreno Valley (MVU)
+ID: 1681969182302x616315507774849000 : Pacific Gas & Electric (PG&E)
+ID: 1681969209670x834058191327723500 : Agua y energía de Pasadena (PWP)
+ID: 1681969237262x876554647648075800 : Servicios públicos de Riverside (RPU)
+ID: 1681969269373x403076652668289000 : Distrito Municipal de Servicios Públicos de Sacramento (SMUD)
+ID: 1681969301749x537913892630691840 : Gas y electricidad de San Diego (SDGE)
+ID: 1681969327446x679293337078333400 : Silicon Valley Power (VP sénior)
+ID: 1681969364941x805487047359594500 : Distrito de riego de Turlock (TID)
+ID: 1681969398605x851210721862615000 : Edison del sur de California (SCE)
+ID: 1681969438582x239934493726343170 : Distrito de riego de Lathrop (LID)
+ID: 1681969473502x333402341711544300 : Servicio eléctrico de Roseville
+ID: 1681969531773x916351085656408000 : Cooperativa Eléctrica Trico
+ID: 1681969572533x575452879543074800 : Servicio Público de Arizona (APS)
+ID: 1681969604253x320465066569498600 : Distrito Eléctrico #2 (ED2)
+ID: 1681969639238x659056643953655800 : Distrito Eléctrico #3 (ED3)
+ID: 1681969669830x346568980174471200 : Proyecto Salt River Energía y Agua (SRP)
+ID: 1681969703518x151740127886180350 : Proyecto de Riego San Carlos (SCIP)
+ID: 1681969744934x511964433177640960 : Cooperativa Eléctrica de Sulphur Springs Valley (SSVEC)
+ID: 1681969778254x175514286557495300 : Energía eléctrica de Tucson (TEP)
+ID: 1681969893141x634734649015795700 : Compañía Eléctrica de Tampa (TECO)
+ID: 1681969939710x807991050489561100 : Servicios públicos regionales de Gainesville (GRU)
+ID: 1681969979038x412602517613969400 : Autoridad de Servicios Públicos de Kissimmee (KUA)
+ID: 1681970017974x154614419788922880 : lagoland eléctrico
+ID: 1681970047566x635057941860319200 : Energía y luz de Florida (FPL)
+ID: 1681970084110x581624967086473200 : duque de energía
+ID: 1681970122214x289324927513788400 : Cooperativa Eléctrica del Río Withlacoochee (WREC)
+ID: 1681970173102x981959614284169200 : Cooperativa eléctrica del condado de Lee
+ID: 1681970865598x818622573757071400 : Better Earth Liability Insurance y Compensación de Trabajadores
+ID: 1681970894726x773689658894975000 : Licencias de contratistas de Better Earth
+ID: 1681970929599x135702845170647040 : ¿Cómo obtengo mi licencia de vendedor de mejoras para el hogar (HIS)?
+ID: 1681971103038x780939895684726800 : Glosario de términos solares
+ID: 1682099280106x773473403400618000 : Preguntas frecuentes sobre Slack
+ID: 1682099841192x816405910512205800 : Notas de la versión de Pangea
+ID: 1682099886642x751684082348326900 : Cómo responder preguntas de punto de venta en Pangea y programar una encuesta del sitio
+ID: 1682100020339x513436519771668500 : Cómo acceder a la programación de encuestas para un proyecto en Pangea
+ID: 1682100055249x811449967845572600 : Cómo acceder al formulario de inspección del sitio pendiente para un proyecto en Pangea
+ID: 1682100094057x571270468654333950 : Cómo usar FastPay en Pangea
+ID: 1682100208563x252545669689770000 : Cómo solicitar una orden de cambio, poner un proyecto en espera o cancelar
+ID: 1682100384923x879381839518105600 : Cómo usar el chat de soporte de ventas en Pangea
+ID: 1682100490879x960813191531855900 : Cómo iniciar sesión en Pangea y sincronizar Aurora
+ID: 1682100538030x612584024957255700 : ¿Cómo pongo un proyecto en espera o lo cancelo en Pangea?
+ID: 1682100561579x193281992019148800 : Cómo usar el modo de diseño experto
+ID: 1682100591816x558675590947799000 : ¿Cómo puedo acceder a la presentación estática en Pangea?
+ID: 1682100616659x646930883907158000 : ¿Cómo descargo un Acuerdo de instalación firmado (IA) en Pangea?
+ID: 1682100641617x784012091500527600 : Cómo enviar manualmente una oferta en Pangea
+ID: 1682100671387x576998589469818900 : Tutorial completo de Pangea
+ID: 1682100743703x386141895359201300 : Introducción de clientes potenciales, creación y acceso a propuestas en Pangea
+ID: 1682100836354x295640156639068160 : Subir facturas de servicios públicos y otros documentos en Pangea
+ID: 1682100877246x316274836440875000 : Corrección de la información del cliente para la firma del acuerdo de instalación en Pangea
+ID: 1682100931029x245387989913698300 : ¿Cómo firmo documentos con un cliente en Pangea?
+ID: 1682100967690x140672237976944640 : ¿Cómo se puede transferir un cliente potencial en Pangea?
+ID: 1682101067878x913504909401784300 : Aurora - Actualización de la página de financiación 4/18/23
+ID: 1682101124502x452274288571973600 : Cómo usar el chat en vivo de Aurora
+ID: 1682101173834x526205924834803700 : ¿Cómo envío una propuesta desde Aurora?
+ID: 1682101254152x991322857470951400 : ¿Cómo solicito un diseño experto en Aurora?
+ID: 1682101319032x925295254073507800 : Preguntas frecuentes sobre el modo de venta de Pangea y Aurora
+ID: 1682101345916x530222292894220300 : ¿Cómo uso el modo de diseño avanzado en Aurora?
+ID: 1682101376706x892898981901762600 : Cómo ajustar los contratiempos en el modo de diseño de Aurora
+ID: 1682101487393x981416530434850800 : Cómo usar el modo de diseño avanzado en Aurora
+ID: 1682101526506x287260763728642050 : Cómo comparar la factura de servicios públicos antes y después de la energía solar en el modo de diseño de Aurora
+ID: 1682101587400x718248524783288300 : Scoreboard
+ID: 1682101627997x213275724342362100 : Herramientas de Google (Gmail, Drive, Calendar y más)
+ID: 1682101691724x221513487362818050 : SalesRabbit
+ID: 1682101751108x746965356215795700 : ¿Qué es Zoom?
+ID: 1682102379031x392184939818516500 : ¿Cuáles son los componentes de un sistema solar?
+ID: 1682102414032x577462523131592700 : ¿Qué paneles usamos? Preguntas más frecuentes
+ID: 1682102436519x465669959141818400 : ¿Qué es un panel de nivel 1?
+ID: 1682102479435x202909048062869500 : ¿Por qué somos principalmente agnósticos del panel?
+ID: 1682102503839x284825972841381900 : ¿Los paneles solares están asegurados por daños?
+ID: 1682102534496x720583459557081100 : ¿Cómo limpia los paneles y con qué frecuencia necesita limpiarlos?
+ID: 1682102612926x953707460319510500 : Preguntas frecuentes sobre inversores SolarEdge
+ID: 1682102679549x513670126535180300 : ¿Qué equipamiento de estanterías instala Better Earth? Preguntas más frecuentes
+ID: 1682102711870x236112739690086400 : ¿Cuándo se necesita un kit Tilt-Up?
+ID: 1682102740159x901797854151442400 : ¿Cómo funcionan los proyectos de montaje en tierra?
+ID: 1682102815906x180163567447441400 : ¿Cómo se montan las estanterías en el techo?
+ID: 1682102951411x939977969480237000 : Preguntas frecuentes sobre la batería Franklin
+ID: 1682102994461x255686734807040000 : Preguntas frecuentes sobre la batería NEM 3 sin respaldo de SolarEdge
+ID: 1682103037099x146423053616152580 : Preguntas frecuentes sobre la batería de Tesla
+ID: 1682103124599x759724297829220400 : Preguntas frecuentes sobre sistemas de almacenamiento de batería
+ID: 1682103201529x402874031062122500 : Sistema de gestión de demanda de energía (solo AZ)
+ID: 1682103238154x633751337212313600 : Preguntas frecuentes sobre los cargadores de vehículos eléctricos (EV)
+ID: 1682103271940x276745669121146900 : ¿Qué es un monitor de consumo de energía CURB?
+ID: 1684937443098x284292755651821570 : Mejores Banners de la Tierra para LinkedIn
+ID: 1684937473688x466025336234311700 : ¿Dónde puedo obtener mejores regalos/merchandising de Earth?
+ID: 1684937501255x253398747431043070 : Directrices de marca y marketing de Better Earth
+ID: 1684937524430x736793310639423500 : Plataformas de reseñas y redes sociales de Better Earth
+ID: 1690907553898x117127148871352320 : Formulario de solicitud de inicio de sesión
+ID: 1690908528074x834166751254806500 : Actualizaciones de ventas Semana del 25/04/23
+ID: 1690908566466x695773844723466200 : Actualizaciones de ventas Semana del 5/2/23
+ID: 1690908671666x674288669107945500 : Actualizaciones de ventas Semana del 5/9/23
+ID: 1690908746172x866738037022523400 : Actualizaciones de ventas Semana del 16/05/23
+ID: 1690908767658x486252263337623550 : Actualizaciones de ventas Semana del 23/05/23
+ID: 1690908790162x441878487917658100 : Actualizaciones de ventas Semana del 30/05/23
+ID: 1690908816642x189773743020572670 : Actualizaciones de ventas Semana del 6/6/23
+ID: 1690908841210x873489058711732200 : Actualizaciones de ventas Semana del 13/06/23
+ID: 1690908869329x893843294425448400 : Actualizaciones de ventas Semana del 20/06/23
+ID: 1690908914938x216826841442811900 : Actualizaciones de ventas Semana del 27/06/23
+ID: 1690908957521x155576040917303300 : Actualizaciones de ventas Semana del 7/11/23
+ID: 1690909011435x357372641443577860 : Actualizaciones de ventas Semana del 18/7/2023
+ID: 1690909047473x169049688302157820 : Actualizaciones de ventas Semana del 25/7/2023
+ID: 1690909499632x515169805412073500 : Precios actualizados de la batería (6/1/23)
+ID: 1690909526382x781556204002869200 : Actualización del producto de la batería Sunnova
+ID: 1690909551216x841065936408805400 : Mr. Beast Philanthropy Colaboración GivePower
+ID: 1690909686280x119383995388002300 : Hora de poder para socios (29/6/23)
+ID: 1690909740074x295924372851916800 : Hora de poder para socios (15/6/23)
+ID: 1690909785495x798935865266798600 : Hora de poder para socios (6/8/23)
+ID: 1690909805160x362087770209910800 : Hora de poder para socios (6/1/2023)
+ID: 1690909827357x716863502243332100 : Hora de poder para socios (20/7/23)
+ID: 1690910022160x391275191584948200 : ¡El desafío NEM 3.0 está aquí!
+ID: 1690910414971x879061531271102500 : Desafío miembro-miembro
+ID: 1690910453340x127732708489822200 : Juego de revisión de 5 estrellas de verano
+ID: 1690910519964x592394691388637200 : ¡El desafío de verano está aquí!
+ID: 1690910544355x563489085673963500 : Competencia de bordes
+ID: 1690910803502x782489711006711800 : ¿Cómo envío comentarios?
+ID: 1690910842422x828964429357645800 : Cómo administrar su canalización
+ID: 1690910958310x462575269251645440 : Calculadora de Ahorros NEM 3.0 y Presentación
+ID: 1690910999614x873493233033281500 : Formulario de envío de proyectos de OPC
+ID: 1690911237844x128432630320332800 : ¿Qué son las llamadas de ventas y seminarios web semanales de Better Earth?
+ID: 1690911499334x705370350427832300 : Guión de llamada de bienvenida posterior a la instalación
+ID: 1690911526727x213709996212879360 : ¿Qué es el Portal del Cliente?
+ID: 1690911660126x510720398330953700 : ¿Cómo funciona la supervisión del sistema?
+ID: 1690911753863x915225562164756500 : ¿Cómo funciona la aprobación de la Asociación de propietarios (HOA)?
+ID: 1690911800291x833964256008339500 : ¿Cómo funciona una actualización del panel de servicio principal (MPU)? Preguntas más frecuentes
+ID: 1690911842152x767035893229027300 : ¿Qué es la Aprobación Financiera Inicial (IFA) o Aviso para Proceder (NTP)?
+ID: 1690911911367x810349423456682000 : ¿Qué son las aprobaciones de terceros?
+ID: 1690911967930x459272239704703000 : ¿Cómo funciona una desinstalación y reinstalación?
+ID: 1690912187693x922367870486184000 : ¿Qué pendientes de techo son elegibles para la instalación de Better Earth?
+ID: 1690912224431x841788042223026200 : ¿Cómo se manejan los clientes potenciales del sitio web?
+ID: 1690912308898x498377002617405440 : ¿Cómo funcionan los bonos de recomendación de un cliente?
+ID: 1690912362807x117883773549543420 : ¿Qué sucede si un cliente cancela?
+ID: 1690912397215x121035383006822400 : ¿Ofrece Better Earth contactos solares?
+ID: 1690912431088x182926286371422200 : ¿Funciona la energía solar durante un apagón o caída de tensión?
+ID: 1690912485326x926886194154569700 : ¿Cómo ver si el proyecto ha sido protegido por derechos adquiridos en NEM 2.0?
+ID: 1690912597504x147015837799153660 : ¿Por qué el tamaño del sistema y la producción pueden cambiar durante la fase de diseño?
+ID: 1690912642023x210375104449740800 : ¿Qué sucede si Better Earth cierra?
+ID: 1690913809417x114113199988015100 : EverBright
+ID: 1690919368031x408327716682858500 : Servicio eléctrico de Ocala (OEU)
+ID: 1690919409142x325771776249036800 : Comisión de Servicios Públicos de Orlando
+ID: 1690919450566x515858343283130400 : Cooperativa eléctrica Sumter
+ID: 1690919484703x211892523956174850 : Departamento de servicios públicos de la ciudad de Newberry
+ID: 1690919622846x918164074579624000 : Oncor
+ID: 1690919657366x506836688356769800 : Energía de Texas Nuevo México (TNMP)
+ID: 1690919749942x130146972019195900 : Energía de montaña verde
+ID: 1690919779918x105130120180400130 : Energía MP2
+ID: 1690919812526x606653382740148200 : Energía confiable
+ID: 1690919844870x748145965775978500 : TXU energía
+ID: 1690919926702x130489927748812800 : ¿Con qué empresas de servicios públicos trabaja Better Earth?
+ID: 1690919949655x915743545954926600 : Preguntas frecuentes sobre la medición de energía neta (NEM)
+ID: 1690919970662x165569101397491700 : ¿Qué son los cargos de energía verde?
+ID: 1690919992975x170643522335801340 : ¿Cómo funciona la agregación de medidores de energía neta?
+ID: 1690920012061x575609768160264200 : Si un cliente tiene un saldo pendiente con la empresa de servicios públicos, ¿aún puede optar por la energía solar?
+ID: 1690920054424x629312628211056600 : Preguntas frecuentes sobre Net Energy Metering 3.0 (NEM 3.0) en California
+ID: 1690920128799x497806233489899500 : ¿Por qué Better Earth es exclusivo de los inversores SolarEdge?
+ID: 1690920202367x756956541618749400 : ¿Qué es el Programa de Incentivo a la Autogeneración (SGIP)?
+ID: 1690920307791x186008722777047040 : Garantía de penetración en el techo de 10 años y garantía de mano de obra de 25 años
+ID: 1690920330670x803078188504973300 : Garantía de rendimiento de 25 años
+ID: 1690920352865x326681024709001200 : Garantía de instalación de 60 días (FAQ)
+ID: 1690920379783x565394446399045600 : ¿Qué es Bolt? (PREGUNTAS MÁS FRECUENTES)
+ID: 1690920401037x922428255681118200 : ¿Por qué solo muestra el monitoreo del sistema de 5 años en nuestro contrato?
+ID: 1690920456511x885892787800113200 : Fundación GivePower
+ID: 1690920478663x703571938253996000 : Informe Wood Mackenzie
+ID: 1690920508015x380636475583627260 : ¿Qué es la Certificación Pearl?
+ID: 1690920815287x370243972724949000 : Vender en florida
+ID: 1690920842672x830208489506734000 : ¿Cuál es el requisito de seguro de Florida?
+ID: 1690920879896x689976759333158900 : State Farm Partnership para el requisito de seguro de nivel 2 de Florida
+ID: 1690920938864x998550994744770600 : Vender en California
+ID: 1690920982280x747094112145244200 : Vender en Arizona
+ID: 1690921029207x742248136822227000 : Vender en Texas
+ID: 1690921167896x783104425173975000 : Como gerente, ¿cómo administro WorkRamp My Team Manager Dashboard?
+ID: 1690921248177x177018982955483140 : ¿Por qué Better Earth?
+ID: 1693244573374x793203975862353900 : Cómo utilizar la base de conocimientos
+ID: 1693244922118x923385896265842700 : Preguntas frecuentes sobre la hoja de referencia financiera
+ID: 1693244954454x830000258740387800 : Mapa del territorio
+ID: 1693245032318x635623209333686300 : Opciones de sumador
+ID: 1693245222828x829348210752356400 : Actualizaciones de ventas Semana del 21/8/2023
+ID: 1693245340829x413049989705760800 : Actualizaciones de ventas Semana del 1/8/2023
+ID: 1693245412308x202694702558347260 : Actualizaciones de ventas Semana del 7/8/2023
+ID: 1693245454500x180931117362708500 : Actualizaciones de ventas Semana del 15/8/2023
+ID: 1693245548683x428427921141792800 : Hora del poder del socio (17/8/23)
+ID: 1693246004962x591447175262896100 : ¿Cómo funciona la programación de instalaciones?
+ID: 1693246031411x322278342280085500 : ¿Cómo funciona la aprobación de la Asociación de Propietarios de Viviendas (HOA)?
+ID: 1693246063970x551342752871219200 : ¿Cómo funciona un nuevo techo? Preguntas más frecuentes
+ID: 1693246095802x649488518167920600 : ¿Cómo funciona una actualización del panel de servicio principal (MPU)? Preguntas más frecuentes
+ID: 1693246166178x495870820674961400 : ¿Qué es la aprobación financiera inicial (IFA) o el aviso de procedimiento (NTP)?
+ID: 1693246194834x593838185601040400 : ¿Qué es la interconexión?
+ID: 1693246227945x100897431577165820 : ¿Qué es el permiso?
+ID: 1693246254729x471102903785619460 : ¿Qué son las aprobaciones de terceros?
+ID: 1693246699050x612188995362488300 : ¿Qué es un alcance de trabajo (SOW)?
+ID: 1693246732264x125451332907696130 : ¿Qué es la ingeniería y el diseño?
+ID: 1693246765992x590031782585303000 : ¿Qué es una encuesta del sitio?
+ID: 1693260430598x585012491140464600 : ¿Cómo funciona el monitoreo del sistema?
+ID: 1693260451439x983670579696762900 : ¿Qué es la activación del sistema?
+ID: 1693260481167x855741762458353700 : ¿Qué es el permiso para operar (PTO)?
+ID: 1693260510607x271623497907175420 : ¿Cómo funciona la inspección? Preguntas más frecuentes
+ID: 1693260536343x955677857263124500 : Preguntas frecuentes sobre instalación
+ID: 1693260606158x778045860480024600 : ¿Cómo funciona el monitoreo SolarEdge con una batería?
+ID: 1693260635191x520847974020939800 : ¿Qué es un ciclo de energía y cómo funciona?
+ID: 1693260662615x158865743278506000 : ¿Dónde se puede instalar un sistema de almacenamiento de baterías?
+ID: 1697207827306x720312234566484000 : Actualizaciones de venta Semana del 22/8/23
+ID: 1697207906350x879813030751764500 : Actualizaciones de venta Semana del 5/9/23
+ID: 1697207967095x231637886562205700 : Actualizaciones de venta Semana del 12/09/23
+ID: 1697208090338x415672430273757200 : Actualizaciones de ventas semana del 19/09/23
+ID: 1697208138055x106858617011699710 : Actualizaciones de ventas semana del 26/9/23
+ID: 1703076140025x346131763939770400 : Garantía de calidad de Better Earth
+ID: 1703076294343x148128115680870400 : Programa de bonificación de reactivación de clientes potenciales durante las fiestas
+ID: 1703076432249x700869537232584700 : Juego de revisión de 5 estrellas
+ID: 1703076506712x212795019986206700 : Competencia Brinks
+ID: 1703076556598x465747204059955200 : Desafío miembro-miembro
+ID: 1703076654357x591106076570812400 :  ¡El desafío de verano ya está aquí!
+ID: 1703077127316x206186799975366660 :  Actualizaciones de ventas Semana del 14/11/2023
+ID: 1703077285097x193551466238050300 :  Actualizaciones de ventas Semana del 21/11/2023
+ID: 1703077355485x615571642696597500 : Actualizaciones de ventas Semana del 28/11/2023
+ID: 1703077401265x471886578738004000 :  Actualizaciones de ventas Semana del 5/12/2023

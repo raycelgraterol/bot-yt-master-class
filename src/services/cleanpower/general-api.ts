@@ -6,7 +6,7 @@ interface Article {
     Titulo: string;
 }
 
-const getArticle = async (_id: string): Promise<string> => {
+const getArticle = async (_id: string): Promise<any> => {
     try {
         const generateContent = {
             method: 'get',
@@ -15,9 +15,7 @@ const getArticle = async (_id: string): Promise<string> => {
 
         const axiosResult = await axios(generateContent);
 
-        const result = axiosResult.data.response.Descripcion;
-
-        return result;
+        return axiosResult.data.response;
 
     } catch (e) {
         console.error('Error getting:', e);
@@ -51,8 +49,7 @@ const getAllArticles = async (): Promise<string[]> => {
             remaining = axiosResult.data.response.remaining;
         }
 
-        const chunk = allArticles.splice(0, 100);
-        const path = `${process.cwd()}/data/articles100.txt`;
+        const path = `${process.cwd()}/data/articlesAll.txt`;
 
         const file = fs.createWriteStream(path);
 
@@ -60,13 +57,13 @@ const getAllArticles = async (): Promise<string[]> => {
             console.error(err);
         });
 
-        chunk.forEach((v) => {
+        allArticles.forEach((v) => {
             file.write(`${v}\n`);
         });
 
         file.end();
 
-        return chunk;
+        return allArticles;
 
     } catch (e) {
         console.error('Error getting articles:', e);
