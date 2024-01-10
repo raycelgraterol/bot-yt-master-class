@@ -67,7 +67,7 @@ export default BotWhatsapp.addKeyword(BotWhatsapp.EVENTS.WELCOME)
             return
         }
     })
-    .addAnswer(`------`, { capture: true },
+    .addAnswer(` `, { capture: true },
         async (ctx, { gotoFlow, fallBack, endFlow, flowDynamic }) => {
 
             const nameClient = ctx?.pushName ?? '';
