@@ -72,7 +72,10 @@ export default BotWhatsapp.addKeyword(BotWhatsapp.EVENTS.WELCOME)
 
             const nameClient = ctx?.pushName ?? '';
 
-            const currentItem = globalVariable.find(x => x.id == ctx.body);
+            let coincidencias = ctx.body.match(/\d+/);
+            let numero = coincidencias ? coincidencias[0] : '1';
+
+            const currentItem = globalVariable.find(x => x.id == numero);
 
             if (currentItem) {
 
